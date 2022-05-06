@@ -5,4 +5,7 @@ O objetivo desse trabalho foi realizar o tratamento da base de dados referente a
 
 Classificador Gaussiano: Aproximadamente **73% de Acurácia**<br>
 Classifiador KNN: Aproximadamente **74.7% de Acurácia**<br>
-Classificador Árvore de Decisão: Aproximadamente **70% de Acurácia** 
+Classificador Árvore de Decisão: Aproximadamente **70% de Acurácia**<br><br>
+
+**Fonte dos Dados:** https://www.kaggle.com/datasets/arashnic/hr-analytics-job-change-of-data-scientists
+
